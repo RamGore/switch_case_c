@@ -6,17 +6,17 @@
      scanf("%d",&i);
      switch(i)
      {
-     case 100 ... 80:
+     case 80 ...100:
         {
             printf("A grad");
             break;
         }
-     case 80 ...60:
+     case 60 ...79:
         {
             printf("B grad");
             break;
         }
-     case 60 ...40:
+     case 40 ...59:
         {
             printf("c grad");
             break;
